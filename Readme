@@ -1,6 +1,6 @@
 package cpretty
 
-    import "github.com/umarudy/pretty"
+    import "github.com/umarudy/cpretty"
 
     package cpretty provides pretty-printing for Go values.
 
