@@ -1,4 +1,4 @@
-module pretty
+module cpretty
 
 go 1.16
 

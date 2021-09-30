@@ -1,8 +1,8 @@
-package pretty
+package cpretty
 
     import "github.com/umarudy/pretty"
 
-    Package pretty provides pretty-printing for Go values.
+    package cpretty provides pretty-printing for Go values.
 
 Documentation
 

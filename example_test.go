@@ -1,7 +1,8 @@
-package pretty_test
+package cpretty_test
 
 import (
 	"fmt"
+
 	"github.com/kr/pretty"
 )
 

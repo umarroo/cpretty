@@ -1,11 +1,11 @@
-// Package pretty provides pretty-printing for Go values. This is
+// package cpretty provides pretty-printing for Go values. This is
 // useful during debugging, to avoid wrapping long output lines in
 // the terminal.
 //
 // It provides a function, Formatter, that can be used with any
 // function that accepts a format string. It also provides
 // convenience wrappers for functions in packages fmt and log.
-package pretty
+package cpretty
 
 import (
 	"fmt"
