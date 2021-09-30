@@ -1,4 +1,4 @@
-module cpretty
+module github.com/umarudy/cpretty
 
 go 1.16
 
